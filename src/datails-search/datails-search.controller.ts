@@ -1,4 +1,4 @@
-import { Controller, Get, Body, Param } from '@nestjs/common';
+import { Controller, Get, Param } from '@nestjs/common';
 import { DatailsSearchService } from './datails-search.service';
 
 @Controller('datails-search')
