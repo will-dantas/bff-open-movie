@@ -33,10 +33,8 @@ Aplicação backend em Node.JS & Nest.JS que consume a API do OMDBapi para lista
 
 - [TypeScript](https://www.typescriptlang.org/)
 - [JavaScript](https://www.javascript.com/)
-- [React](https://reactjs.org/)
-- [Vite](https://vitejs.dev/)
-- [UI5](https://sap.github.io/ui5-webcomponents-react/?path=/story/getting-started--page)
-- [SASS](https://sass-lang.com/)
+- [Node.Js](https://nodejs.dev/pt/)
+- [Nest.JS](https://nestjs.com/)
 - E muitas outras…
 
 ---
