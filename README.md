@@ -22,52 +22,57 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
-## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+## 💻 Projeto
 
-## Installation
+Aplicação backend em Node.JS & Nest.JS que consume a API do OMDBapi para listagens de filmes e séries.
 
-```bash
-$ yarn install
+---
+
+## ⚙ Tecnologias
+
+- [TypeScript](https://www.typescriptlang.org/)
+- [JavaScript](https://www.javascript.com/)
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [UI5](https://sap.github.io/ui5-webcomponents-react/?path=/story/getting-started--page)
+- [SASS](https://sass-lang.com/)
+- E muitas outras…
+
+---
+
+## 📢 Requisitos
+
+- nodejs v16.16.0
+
+---
+
+## 🚀 Como executar
+
+Uma vez com o ***bff-open-movie*** funcionando pode seguir com a instalação do projeto web.
+
+- Clone o projeto com:
 ```
-
-## Running the app
-
-```bash
-# development
-$ yarn run start
-
-# watch mode
-$ yarn run start:dev
-
-# production mode
-$ yarn run start:prod
+git clone https://github.com/will-dantas/web-open-movie.git
 ```
-
-## Test
-
-```bash
-# unit tests
-$ yarn run test
-
-# e2e tests
-$ yarn run test:e2e
-
-# test coverage
-$ yarn run test:cov
+- Instale os pacotes com:
 ```
+yarn install
+```
+- Para executar o projeto faça:
+```
+yarn run start:dev
+```
+Pronto! Se tudo estiver correto seu servidor Node.JS ja vai estar disponível!
 
-## Support
+---
 
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
+<p align="center">
+  Feito por William Dantas
+</p>
 
-## Stay in touch
+<p align="center">
+  <a href = "mailto:wmdantas2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/william-dantas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</p>
 
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
-
-## License
-
-Nest is [MIT licensed](LICENSE).
